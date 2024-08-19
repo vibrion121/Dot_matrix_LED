@@ -5,6 +5,7 @@ int main(void){
   
   {
   uint8_t variable1 = 10; 
+  uint8_t var2 = 99;
   }
   
 }
